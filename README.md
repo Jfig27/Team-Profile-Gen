@@ -11,4 +11,4 @@
     https://youtu.be/g4We6vBBl4k
 
 ## Screenshots 
-![example](.\src\Screenshot.png)
+![screeenshot](./src/Screenshot.png)
